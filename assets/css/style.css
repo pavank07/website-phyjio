@@ -2147,7 +2147,7 @@ header.sticktop.navbar-fixed {
 }
 .menu-logo img {
     height: auto;
-    max-width: 180px;
+    max-width: 100px;
 }
 .menu-close {
     font-size: 18px;
@@ -2158,7 +2158,7 @@ header.sticktop.navbar-fixed {
     width: 31px;
 }
 .bar-icon span {
-    background-color: #fff;
+    background-color: #000;
     display: block;
     float: left;
     height: 3px;
@@ -3925,7 +3925,7 @@ div.dataTables_wrapper div.dataTables_filter input {
 	.main-nav > li > a {
 		line-height: 1.5;
 		padding: 15px 20px !important;
-		color: #fff;
+		color: #000;
 		font-size: 14px;
 		font-weight: 500;
 	}
@@ -3935,7 +3935,7 @@ div.dataTables_wrapper div.dataTables_filter input {
 	}
 	.main-nav > li .submenu li a {
 		border-top: 0;
-		color: #fff;
+		color: #333;
 		padding: 10px 15px 10px 35px;
 	}
 	.main-nav > li .submenu ul li a {
@@ -3962,7 +3962,7 @@ div.dataTables_wrapper div.dataTables_filter input {
 		z-index: 1040;
 		transform: translateX(-260px);
 		transition: all 0.4s;
-		background-color: #000;
+		background-color: #fff;
 	}
 	.menu-header {
 		display: -webkit-box;

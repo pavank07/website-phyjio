@@ -30,11 +30,11 @@
 ?>
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<title><?php echo $this->website_name;?></title>
+	<title><?php echo $this->website_name;?> - Book Physiotherapists from across all metro cities in India &amp; USA.</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="">
-	<meta name="keywords" content="">
-	<meta name="author" content="Dreamguy's Technologies">
+	<meta name="description" content="Phyjio is an online flatform for physiotherapists which offers the best experienced verified physiotherapists services at your door step. Currently these services are located across all Indian metro cities and even in United States of America (USA).">
+	<meta name="keywords" content="Physiotherapists, Physiotherapist, Book Physiotherapist, Physiotherapist near me, Best Physiotherapist online, Physiotherapists in India, Physiotherapist in Hyderabad, Physiotherapists in USA, Physiotherapist portal">
+	<meta name="author" content="Phyjio Team">
     <link rel="shortcut icon" type="image/x-icon" href="<?php echo $fav;?>">
 	
 	<link rel="stylesheet" href="<?php echo base_url();?>assets/plugins/bootstrap/css/bootstrap.min.css">

@@ -212,8 +212,8 @@ $country_list=$this->db->where('status',1)->order_by('country_name',"ASC")->get(
 					<div class="account-box">
 						<div class="login-right">
 							<div class="login-header">
-								<h3>Join as a Professional</h3>
-								<p class="text-muted">Registration for Provider</p>
+								<h3>Join as a Physiotherapist</h3>
+								<p class="text-muted">Registration for Physiotherapist</p>
 							</div>
 						</div>
 						<label>What Service do you Provide?</label>                
@@ -230,7 +230,7 @@ $country_list=$this->db->where('status',1)->order_by('country_name',"ASC")->get(
 					<div class="account-box">
 						<div class="login-right">
 							<div class="login-header">
-								<h3>Join as a Professional</h3>
+								<h3>Join as a Physiotherapist</h3>
 								<p class="text-muted">Registration for Provider</p>
 							</div>
 						</div>
@@ -249,7 +249,7 @@ $country_list=$this->db->where('status',1)->order_by('country_name',"ASC")->get(
 					<div class="account-box">
 						<div class="login-right">
 							<div class="login-header">
-								<h3>Join as a Professional</h3>
+								<h3>Join as a Physiotherapist</h3>
 								<p class="text-muted">Registration for Provider</p>
 							</div>
 						</div>

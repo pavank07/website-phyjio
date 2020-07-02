@@ -58,7 +58,7 @@
 						<li><a href="<?php echo base_url();?>contact">Contact Us</a></li>
 
 						<?php if($this->session->userdata('id') == '') { ?>
-						<li><a href="javascript:void(0);" data-toggle="modal" data-target="#modal-wizard">Become a Professional</a></li>
+						<li><a href="javascript:void(0);" data-toggle="modal" data-target="#modal-wizard">Become a Physiotherapist</a></li>
 						<li><a href="javascript:void(0);" data-toggle="modal" data-target="#modal-wizard1">Become a User</a></li>
 						<li class="login-link">
 							<a href="javascript:void(0);" data-toggle="modal" data-target="#tab_login_modal">Login</a>

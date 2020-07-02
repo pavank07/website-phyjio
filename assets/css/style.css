@@ -177,7 +177,7 @@ ul li{
     text-decoration: underline;
 }
 .header{
-    background: #000;
+    background: #fff;
     position: relative;
 }
 .logo img {
@@ -201,7 +201,7 @@ ul li{
 }
 .section-search > h3 {
     font-size: 40px;
-    color: #fff;
+    color: #333;
     font-weight: bold;
     margin-bottom: 10px;
 }
@@ -210,7 +210,7 @@ ul li{
 }
 .section-search > p {
     font-size: 22px;
-    color: #fff;
+    color: #555;
     font-weight: 400;
     margin: 0;
 }
@@ -313,7 +313,7 @@ ul li{
 .search-cat span {
     float: none;
     display: inline-block;
-    color: #fff;
+    color: #555;
     font-size: 18px;
     line-height: 29px;
     margin-right: 25px;
@@ -1887,7 +1887,7 @@ header.sticktop.navbar-fixed {
 	padding: 0;
 }
 .main-nav > li > a {
-	color: #fff;
+	color: #000;
 }
 .main-nav > li.active > a {
 	color: #ff0080;
@@ -2193,7 +2193,7 @@ header.sticktop.dark {
 	position: unset;
 }
 .header.sticktop.navbar-fixed .header-nav {
-	background: #151519;
+	background: #f9f9f9;
 }
 .settings-menu ul {
 	display: block;

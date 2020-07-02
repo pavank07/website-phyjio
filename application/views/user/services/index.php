@@ -29,14 +29,14 @@ $currency = currency_conversion(settings('currency'));
 			<div class="row">
 				<div class="col">
 					<div class="breadcrumb-title">
-						<h2>Find a Professional</h2>
+						<h2>Find a Physiotherapist</h2>
 					</div>
 				</div>
 				<div class="col-auto float-right ml-auto breadcrumb-menu">
 					<nav aria-label="breadcrumb" class="page-breadcrumb">
 						<ol class="breadcrumb">
 							<li class="breadcrumb-item"><a href="<?php echo base_url();?>">Home</a></li>
-							<li class="breadcrumb-item active" aria-current="page">Find a Professional</li>
+							<li class="breadcrumb-item active" aria-current="page">Find a Physiotherapist</li>
 						</ol>
 					</nav>
 				</div>

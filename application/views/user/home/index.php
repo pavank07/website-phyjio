@@ -23,8 +23,8 @@
 				<div class="row justify-content-center">
 					<div class="col-lg-12">
 						<div class="section-search">
-							<h3>World's Largest <span>Marketplace</span></h3>
-							<p>Search From <?php echo $services_count?> Awesome Verified Ads! </p>
+							<h3>India's exclusive portal for <span>Physiotherapists</span></h3>
+							<p>Search <?php echo $services_count?> Physiotherapists Across all Indian Metro Cities. </p>
 							<div class="search-box">
 								<form action="<?php echo base_url();?>search" id="search_service" method="post">
 									<input type="hidden" name="<?php echo $this->security->get_csrf_token_name(); ?>" value="<?php echo $this->security->get_csrf_hash(); ?>" />

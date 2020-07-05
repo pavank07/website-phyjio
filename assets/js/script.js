@@ -1,9 +1,3 @@
-/*
-Author       : Dreamguys
-Template Name: Truelysell - Service Marketplace
-Version      : 1.0
-*/
-
 (function($) {
 	"use strict";
 	var current_page=$('#current_page').val();

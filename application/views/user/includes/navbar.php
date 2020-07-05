@@ -1,11 +1,20 @@
 <body>
 	<div class="page-loading">
 		<div class="preloader-inner">
-			<div class="preloader-square-swapping">
+			<!-- <div class="preloader-square-swapping">
 				<div class="cssload-square-part cssload-square-green"></div>
 				<div class="cssload-square-part cssload-square-pink"></div>
 				<div class="cssload-square-blend"></div>
-			</div>
+			</div> -->
+			
+			<div class="spinner-box">
+			<img src="assets/img/logo.png" class="pulse-logo">
+  <div class="pulse-container">  
+    <div class="pulse-bubble pulse-bubble-1"></div>
+    <div class="pulse-bubble pulse-bubble-2"></div>
+    <div class="pulse-bubble pulse-bubble-3"></div>
+  </div>
+</div>
 		</div>
 	</div>
 

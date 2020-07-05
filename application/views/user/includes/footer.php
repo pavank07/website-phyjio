@@ -550,7 +550,7 @@ $country_list=$this->db->where('status',1)->order_by('country_name',"ASC")->get(
 									</p>
 								</div>
 								<p>
-									<i class="fas fa-headphones"></i>
+									<i class="fas fa-phone"></i>
 									<?php $query = $this->db->query("select * from system_settings WHERE status = 1");
 									$result = $query->result_array();
 
@@ -593,7 +593,7 @@ $country_list=$this->db->where('status',1)->order_by('country_name',"ASC")->get(
 												<a href="#" target="_blank"><i class="fab fa-youtube"></i></a>
 											</li>
 											<li>
-												<a href="#" target="_blank"><i class="fab fa-google"></i></a>
+												<a href="#" target="_blank"><i class="fab fa-instagram"></i></a>
 											</li>
 										</ul>
 									</div>
@@ -768,7 +768,7 @@ $country_list=$this->db->where('status',1)->order_by('country_name',"ASC")->get(
 									<div class="login-right">
 										<div class="login-header">
 											<h3>Login</h3>
-											<p class="text-muted">Access to our Truelysell</p>
+											<p class="text-muted">Access to our Phyjio</p>
 										</div>
 										<div class="form-group">
 											<label>Mobile Number</label>

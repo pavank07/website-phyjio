@@ -93,8 +93,8 @@ $currency = currency_conversion(settings('currency'));
 											<div class="filter-list">
 												<h4 class="filter-title">Price Range</h4>
 												<div class="price-ranges">
-													$<span class="from d-inline-block" id="min_price"><?php echo $min_price['service_amount']?></span> -
-													$<span class="to d-inline-block" id="max_price"><?php echo  $max_price['service_amount']?></span>
+													₹<span class="from d-inline-block" id="min_price"><?php echo $min_price['service_amount']?></span> -
+													₹<span class="to d-inline-block" id="max_price"><?php echo  $max_price['service_amount']?></span>
 												</div>	
 												<div class="range-slider price-range"></div>										
 											</div>

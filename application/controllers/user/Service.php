@@ -39,11 +39,11 @@ class Service extends CI_Controller {
  {
    $this->load->library('email');
    $result = $this->email
-    ->from('vignesh.s@dreamguys.co.in')
-    ->reply_to('vignesh.s@dreamguys.co.in')    // Optional, an account where a human being reads.
-    ->to('vignesh.s@dreamguys.co.in')
-    ->subject('hai')
-    ->message('asf')
+    ->from('care@phyjio.com')
+    ->reply_to('care@phyjio.com')    // Optional, an account where a human being reads.
+    ->to('care@phyjio.com')
+    ->subject('we care from phyjio')
+    ->message('This is a sample message')
     ->send();
   }
 
